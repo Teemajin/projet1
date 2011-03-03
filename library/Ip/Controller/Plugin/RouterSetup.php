@@ -20,9 +20,9 @@
  */ 
 
 class Ip_Controller_Plugin_RouterSetup extends Ip_Controller_Plugin_Abstract
-{    
+{
     
-   public function routeStartup()
+   public function routeStartup(Zend_Controller_Request_Abstract $request)
     {
             // Adds routes defined in routes.ini
             $frontController    = Zend_Controller_Front::getInstance();

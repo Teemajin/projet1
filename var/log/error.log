@@ -98,5 +98,8 @@ Zend_View_Helper_: Zend/View/Helper/
 2011-02-04T10:26:09+01:00 ALERT (1): Invalid controller specified (js)
 2011-02-04T10:26:09+01:00 ALERT (1): Invalid controller specified (js)
 2011-02-04T11:53:48+01:00 ALERT (1): Action "jsonfdgh" does not exist and was not trapped in __call()
-2011-03-02T16:19:03+01:00 ALERT (1): SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
-2011-03-02T16:19:20+01:00 ALERT (1): SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+2011-03-02T11:21:07+01:00 ALERT (1): L'action "loginAction" n'est pas implémentée.
+2011-03-02T11:21:22+01:00 ALERT (1): L'action "loginAction" n'est pas implémentée.
+2011-03-02T11:22:25+01:00 ALERT (1): L'action "loginAction" n'est pas implémentée.
+2011-03-02T14:21:20+01:00 ALERT (1): SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+2011-03-02T16:32:00+01:00 ALERT (1): Invalid controller specified (phmyadmin)

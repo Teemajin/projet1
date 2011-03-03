@@ -8,7 +8,7 @@ class IndexController extends Ip_Controller_Action
      * @return void
      */
      public function indexAction(){
-		echo 'test';
+		
 	 }
 	 
 
